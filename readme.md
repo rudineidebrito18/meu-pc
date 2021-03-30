@@ -1,10 +1,4 @@
-# Pim: Hardware
-
-## Quantos equipamentos a empresa vai ter.
-
-## Especificações tecnicas completas de todos os equipamentos.
-
-### meu pc:
+# meu pc:
 
 + Processador: **Ryzen 3 2200G**. [Link](https://www.kabum.com.br/produto/94723/processador-amd-ryzen-3-2200g-cooler-wraith-stealth-cache-6mb-3-5ghz-3-7ghz-max-turbo-am4-yd2200c5fbbox)
 
